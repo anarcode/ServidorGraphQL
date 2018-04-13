@@ -1,0 +1,4 @@
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\bin\Release\Peliculas.Core.dll
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\bin\Release\Peliculas.Core.pdb
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\obj\Release\Peliculas.Core.dll
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\obj\Release\Peliculas.Core.pdb

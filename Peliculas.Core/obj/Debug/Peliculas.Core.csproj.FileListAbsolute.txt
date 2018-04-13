@@ -1,0 +1,5 @@
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\bin\Debug\Peliculas.Core.dll
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\bin\Debug\Peliculas.Core.pdb
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\obj\Debug\Peliculas.Core.dll
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\obj\Debug\Peliculas.Core.pdb
+C:\Desarrollo\C#\RestConGraph\Peliculas.Core\obj\Debug\Peliculas.Core.csprojResolveAssemblyReference.cache
